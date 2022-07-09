@@ -6,7 +6,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace UpNdRunning_.Models
+namespace UpNdRunning.Models
 {
     public class DeprecationStraightLine
     {
