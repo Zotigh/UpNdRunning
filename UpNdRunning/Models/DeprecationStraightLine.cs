@@ -1,11 +1,12 @@
 ﻿/******************************************************
 * Programmer: Lance Zotigh (lzotigh1@cnm.edu)
+* Program: Project 5 Deprecation Application.
 * Purpose: A simple program that calculates what the future depreciable value of an asset will be.
 *******************************************************/
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace ZotighP5_Cs_II_.Models
+namespace UpNdRunning_.Models
 {
     public class DeprecationStraightLine
     {
